@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "name": "ilox",
+      "path": "ilox"
+    }
+  ],
+  "settings": {
+    "rust-analyzer.checkOnSave.command": "clippy"
+  }
+}
